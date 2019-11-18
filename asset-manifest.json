@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/API-yaMap-react/./static/css/main.503238b9.chunk.css",
+    "main.js": "/API-yaMap-react/./static/js/main.eefaccca.chunk.js",
+    "main.js.map": "/API-yaMap-react/./static/js/main.eefaccca.chunk.js.map",
+    "runtime-main.js": "/API-yaMap-react/./static/js/runtime-main.36ecf209.js",
+    "runtime-main.js.map": "/API-yaMap-react/./static/js/runtime-main.36ecf209.js.map",
+    "static/js/2.32f7485e.chunk.js": "/API-yaMap-react/./static/js/2.32f7485e.chunk.js",
+    "static/js/2.32f7485e.chunk.js.map": "/API-yaMap-react/./static/js/2.32f7485e.chunk.js.map",
+    "index.html": "/API-yaMap-react/./index.html",
+    "precache-manifest.a897302a7641662bf5c57705e940c75a.js": "/API-yaMap-react/./precache-manifest.a897302a7641662bf5c57705e940c75a.js",
+    "service-worker.js": "/API-yaMap-react/./service-worker.js",
+    "static/css/main.503238b9.chunk.css.map": "/API-yaMap-react/./static/css/main.503238b9.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36ecf209.js",
+    "static/js/2.32f7485e.chunk.js",
+    "static/css/main.503238b9.chunk.css",
+    "static/js/main.eefaccca.chunk.js"
+  ]
+}
