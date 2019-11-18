@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ef51cc4edd279267b0600383650f475f",
+    "revision": "1e3f9d7005c58495e5e25e0cb5ec291e",
     "url": "/API-yaMap-react/./index.html"
   },
   {
-    "revision": "f984ee0c09572bbf28ed",
+    "revision": "c5c204137f304fc03977",
     "url": "/API-yaMap-react/./static/css/main.503238b9.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/API-yaMap-react/./static/js/2.32f7485e.chunk.js"
   },
   {
-    "revision": "f984ee0c09572bbf28ed",
-    "url": "/API-yaMap-react/./static/js/main.eefaccca.chunk.js"
+    "revision": "c5c204137f304fc03977",
+    "url": "/API-yaMap-react/./static/js/main.5ce3156a.chunk.js"
   },
   {
     "revision": "ac839b3b1dfc83fb860f",

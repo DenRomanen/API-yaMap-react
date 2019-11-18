@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/API-yaMap-react/./precache-manifest.a897302a7641662bf5c57705e940c75a.js"
+  "/API-yaMap-react/./precache-manifest.6a161d4cc64f0a8f96b6b86efbb0f725.js"
 );
 
 self.addEventListener('message', (event) => {
