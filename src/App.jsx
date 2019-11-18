@@ -5,7 +5,7 @@ import MapRender from "./components/Yamap.jsx";
 
 class App extends React.Component {
   state = {
-    men: "Маршрут"
+    men: "Объекты на карте"
   };
 
   render() {
